@@ -1,0 +1,7 @@
+ChunkID, Package Name, Class Type, Hard or Soft Chunk, File Size, Other Chunks
+0,/Engine/Tutorial/BlueprintTutorials/TutorialAssets/Blueprint_64x,Texture2D,Hard,17626,None
+8,/ScoreboardDMG/BP_ScoreboardDamage,Blueprint,Hard,13717,None
+8,/ScoreboardDMG/BP_ScoreboardEntry_dmg,WidgetBlueprint,Hard,66027,None
+8,/ScoreboardDMG/BR_TwoTeamScoreboard_Dmg,WidgetBlueprint,Hard,152425,None
+8,/ScoreboardDMG/HUD_SKM_Dmg,Blueprint,Hard,10752,None
+8,/ScoreboardDMG/ScoreboardDMG_Banner,Texture2D,Hard,214877,None
