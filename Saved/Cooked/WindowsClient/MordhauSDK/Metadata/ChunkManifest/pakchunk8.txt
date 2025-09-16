@@ -1,5 +1,0 @@
-F:\MORDHAUEditor\Mordhau\Mods\ScoreboardDMG\Saved\Cooked\WindowsClient\MordhauSDK\Mods\ScoreboardDMG\Content\BP_ScoreboardDamage
-F:\MORDHAUEditor\Mordhau\Mods\ScoreboardDMG\Saved\Cooked\WindowsClient\MordhauSDK\Mods\ScoreboardDMG\Content\BP_ScoreboardEntry_dmg
-F:\MORDHAUEditor\Mordhau\Mods\ScoreboardDMG\Saved\Cooked\WindowsClient\MordhauSDK\Mods\ScoreboardDMG\Content\BR_TwoTeamScoreboard_Dmg
-F:\MORDHAUEditor\Mordhau\Mods\ScoreboardDMG\Saved\Cooked\WindowsClient\MordhauSDK\Mods\ScoreboardDMG\Content\HUD_SKM_Dmg
-F:\MORDHAUEditor\Mordhau\Mods\ScoreboardDMG\Saved\Cooked\WindowsClient\MordhauSDK\Mods\ScoreboardDMG\Content\ScoreboardDMG_Banner

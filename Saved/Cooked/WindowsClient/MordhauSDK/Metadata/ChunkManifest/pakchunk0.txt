@@ -1,1 +1,11 @@
 F:\MORDHAUEditor\Mordhau\Mods\ScoreboardDMG\Saved\Cooked\WindowsClient\Engine\Content\Tutorial\BlueprintTutorials\TutorialAssets\Blueprint_64x
+F:\MORDHAUEditor\Mordhau\Mods\ScoreboardDMG\Saved\Cooked\WindowsClient\MordhauSDK\Mods\ScoreboardDMG\Content\BP_ScoreboardDamage
+F:\MORDHAUEditor\Mordhau\Mods\ScoreboardDMG\Saved\Cooked\WindowsClient\MordhauSDK\Mods\ScoreboardDMG\Content\BP_ScoreboardEntry_dmg
+F:\MORDHAUEditor\Mordhau\Mods\ScoreboardDMG\Saved\Cooked\WindowsClient\MordhauSDK\Mods\ScoreboardDMG\Content\BR_TwoTeamScoreboard_Dmg
+F:\MORDHAUEditor\Mordhau\Mods\ScoreboardDMG\Saved\Cooked\WindowsClient\MordhauSDK\Mods\ScoreboardDMG\Content\HUD_SKM_Dmg
+F:\MORDHAUEditor\Mordhau\Mods\ScoreboardDMG\Saved\Cooked\WindowsClient\MordhauSDK\Mods\ScoreboardDMG\Content\ScoreboardDMG_Banner
+F:\MORDHAUEditor\Mordhau\Mods\ScoreboardDMG\Saved\Cooked\WindowsClient\MordhauSDK\Mods\ScoreboardDMG\Content\SpecOverlay\BP_SpecOverlay
+F:\MORDHAUEditor\Mordhau\Mods\ScoreboardDMG\Saved\Cooked\WindowsClient\MordhauSDK\Mods\ScoreboardDMG\Content\SpecOverlay\SG_SpecOverlay
+F:\MORDHAUEditor\Mordhau\Mods\ScoreboardDMG\Saved\Cooked\WindowsClient\MordhauSDK\Mods\ScoreboardDMG\Content\SpecOverlay\TopBanner
+F:\MORDHAUEditor\Mordhau\Mods\ScoreboardDMG\Saved\Cooked\WindowsClient\MordhauSDK\Mods\ScoreboardDMG\Content\SpecOverlay\W_SidebarPlayerEntry
+F:\MORDHAUEditor\Mordhau\Mods\ScoreboardDMG\Saved\Cooked\WindowsClient\MordhauSDK\Mods\ScoreboardDMG\Content\SpecOverlay\W_SpecOverlay

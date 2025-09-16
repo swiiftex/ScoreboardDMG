@@ -1,7 +1,12 @@
 ChunkID, Package Name, Class Type, Hard or Soft Chunk, File Size, Other Chunks
 0,/Engine/Tutorial/BlueprintTutorials/TutorialAssets/Blueprint_64x,Texture2D,Hard,17626,None
-8,/ScoreboardDMG/BP_ScoreboardDamage,Blueprint,Hard,13717,None
-8,/ScoreboardDMG/BP_ScoreboardEntry_dmg,WidgetBlueprint,Hard,66027,None
-8,/ScoreboardDMG/BR_TwoTeamScoreboard_Dmg,WidgetBlueprint,Hard,152425,None
-8,/ScoreboardDMG/HUD_SKM_Dmg,Blueprint,Hard,10752,None
-8,/ScoreboardDMG/ScoreboardDMG_Banner,Texture2D,Hard,214877,None
+0,/ScoreboardDMG/BP_ScoreboardDamage,Blueprint,Soft From Unassigned Package? Best Guess: /test/SKMTest->/ScoreboardDMG/BP_ScoreboardDamage,40782,None
+0,/ScoreboardDMG/BP_ScoreboardEntry_dmg,WidgetBlueprint,Soft From Unassigned Package? Best Guess: /test/SKMTest->/ScoreboardDMG/BP_ScoreboardDamage->/ScoreboardDMG/HUD_SKM_Dmg->/ScoreboardDMG/BR_TwoTeamScoreboard_Dmg->/ScoreboardDMG/BP_ScoreboardEntry_dmg,78477,None
+0,/ScoreboardDMG/BR_TwoTeamScoreboard_Dmg,WidgetBlueprint,Soft From Unassigned Package? Best Guess: /test/SKMTest->/ScoreboardDMG/BP_ScoreboardDamage->/ScoreboardDMG/HUD_SKM_Dmg->/ScoreboardDMG/BR_TwoTeamScoreboard_Dmg,166500,None
+0,/ScoreboardDMG/HUD_SKM_Dmg,Blueprint,Soft From Unassigned Package? Best Guess: /test/SKMTest->/ScoreboardDMG/BP_ScoreboardDamage->/ScoreboardDMG/HUD_SKM_Dmg,11394,None
+0,/ScoreboardDMG/ScoreboardDMG_Banner,Texture2D,Soft From Unassigned Package? Best Guess: /test/SKMTest->/ScoreboardDMG/BP_ScoreboardDamage->/ScoreboardDMG/HUD_SKM_Dmg->/ScoreboardDMG/BR_TwoTeamScoreboard_Dmg->/ScoreboardDMG/ScoreboardDMG_Banner,214877,None
+0,/ScoreboardDMG/SpecOverlay/BP_SpecOverlay,Blueprint,Soft From Unassigned Package? Best Guess: /SpectatorMod/SpecTest->/SpectatorMod/BP_SpecOverlay->/ScoreboardDMG/SpecOverlay/BP_SpecOverlay,16366,None
+0,/ScoreboardDMG/SpecOverlay/SG_SpecOverlay,Blueprint,Soft From Unassigned Package? Best Guess: /SpectatorMod/SpecTest->/SpectatorMod/BP_SpecOverlay->/ScoreboardDMG/SpecOverlay/BP_SpecOverlay->/ScoreboardDMG/SpecOverlay/W_SpecOverlay->/ScoreboardDMG/SpecOverlay/SG_SpecOverlay,1684,None
+0,/ScoreboardDMG/SpecOverlay/TopBanner,Texture2D,Soft From Unassigned Package? Best Guess: /SpectatorMod/SpecTest->/SpectatorMod/BP_SpecOverlay->/ScoreboardDMG/SpecOverlay/BP_SpecOverlay->/ScoreboardDMG/SpecOverlay/W_SpecOverlay->/ScoreboardDMG/SpecOverlay/TopBanner,214867,None
+0,/ScoreboardDMG/SpecOverlay/W_SidebarPlayerEntry,WidgetBlueprint,Soft From Unassigned Package? Best Guess: /SpectatorMod/SpecTest->/SpectatorMod/BP_SpecOverlay->/ScoreboardDMG/SpecOverlay/BP_SpecOverlay->/ScoreboardDMG/SpecOverlay/W_SpecOverlay->/ScoreboardDMG/SpecOverlay/W_SidebarPlayerEntry,31348,None
+0,/ScoreboardDMG/SpecOverlay/W_SpecOverlay,WidgetBlueprint,Soft From Unassigned Package? Best Guess: /SpectatorMod/SpecTest->/SpectatorMod/BP_SpecOverlay->/ScoreboardDMG/SpecOverlay/BP_SpecOverlay->/ScoreboardDMG/SpecOverlay/W_SpecOverlay,66969,None
